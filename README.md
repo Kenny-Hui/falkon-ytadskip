@@ -1,5 +1,6 @@
-## YouTube ad skipper (For Falkon)
-A Falkon plugin that skips (not block!) YouTube ads.
+## YouTube Ad Skipper (For Falkon)
+A Falkon extension that skips (not block!) YouTube ads.  
+Works on my machine
 
 ## Installation
 1. Download the file from the Release tab
