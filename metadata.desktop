@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=YT Ad Skipper
+Comment=Skip YouTube Ads
+Icon=
+Type=Service
+X-Falkon-Type=Extension/Qml
+
+X-Falkon-Author=LX86
+X-Falkon-Email=lx86@lx862.com
+X-Falkon-Version=1.0.0
+X-Falkon-Settings=false
